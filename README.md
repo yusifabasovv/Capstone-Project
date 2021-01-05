@@ -21,7 +21,7 @@ For the locations of restaurants near to the city center, we will use **Foursqua
 - Finally, data will be visually assested by Python's **Folium** and **HeatMap** libraries
 
 ## Conclusion
-What is/are  the best location(s) for the new restaurant in Baku ? The **HeatMap** will help us define it and final decison for the best place will be explored by business owners/stakeholders
+What is/are  the best location(s) for the new restaurant(s) in Baku ? The **HeatMap** will help us define it and final decison for the best place will be explored by business owners/stakeholders
 
 
 ###### For better view of interactive libraries in the code cells ,which is unseen in Github , use this link : https://nbviewer.jupyter.org/github/yusifabasovv/Capstone-Project/blob/main/Final%20Capstone%20Project%20.ipynb
